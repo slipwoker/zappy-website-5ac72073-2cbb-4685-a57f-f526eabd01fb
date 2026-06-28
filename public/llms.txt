@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-5ac72073.zappy5.app
+https://example.com
 החנות המתוקה בישראל מזמינה אתכם ליהנות ממבחר ענק של ממתקים ומארזים מפנקים לכל אירוע. כנסו עכשיו והתחילו לבחור את המתנה המושלמת שתגנוב את ההצגה!
 
 ### אירועים
-https://-5ac72073.zappy5.app/occasions
+https://example.com/occasions
 מחפשים מתנות מתוקות לאירועים שיהפכו כל רגע לקסום? גלו מארזי ממתקים מעוצבים לימי הולדת, חתונות וימי כיף, והבטיחו חיוכים מתוקים שכולם יזכרו. הזמינו עוד היום!
 
 ### אודות
-https://-5ac72073.zappy5.app/about
+https://example.com/about
 מתוקים היא לא סתם חנות ממתקים אונליין ישראל – אנחנו מייצרים חוויות של אושר ואיכות ללא פשרות. בואו לקרוא איך הפכנו תשוקה למתוקים למתנות הכי מפנקות ברשת.
 
 ### צור קשר
-https://-5ac72073.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מארזי הממתקים שלנו או רוצים להתאים מתנה מתוקה לאירוע הקרוב? מלאו את הפרטים ואנחנו נחזור אליכם במתיקות ובמהירות שתעלה לכם חיוך על הפנים.
 
 ### Products
-https://-5ac72073.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מתוקים
 
 ### Cart
-https://-5ac72073.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-5ac72073.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-5ac72073.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-5ac72073.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-5ac72073.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-5ac72073.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מתוקים
 
 ### Category
-https://-5ac72073.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מתוקים
 
 ### תודה על פנייתך
-https://-5ac72073.zappy5.app/thank-you
+https://example.com/thank-you
 מתוקים - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5ac72073.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5ac72073.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5ac72073.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5ac72073.zappy5.app/sitemap.xml
-- Robots: https://-5ac72073.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5ac72073.zappy5.app/llms-full.txt
-- Products (JSON): https://-5ac72073.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-5ac72073.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
